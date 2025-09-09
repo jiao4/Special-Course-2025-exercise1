@@ -1,0 +1,14 @@
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+E:\college\grade four\Special Course in Software Engineering 2025\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
